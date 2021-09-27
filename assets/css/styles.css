@@ -400,11 +400,6 @@ background-color: var(--first-color-alt);
     text-align: center;
 }
 
-.about_buttons{
-    display: flex;
-    justify-content: center;
-}
-
 /*==================== SKILLS ====================*/
 .skills_container{
     row-gap: 0;
